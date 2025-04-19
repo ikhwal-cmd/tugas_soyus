@@ -1,0 +1,31 @@
+body{
+    background-image: url(e3a44dd3d6d76cec4cbc9fe67962abd9.jpg);
+    background-position-y: 30%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.background{
+    background-color: rgb(204, 183, 130);
+    border: 5px solid rgb(31, 47, 50);
+    text-align: center;
+    padding: 20px 50px;
+    border-radius: 20px;
+    margin-top: 15%;
+}
+
+.background img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.background h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background button{
+    color: azure;
+    background-color: rgb(0, 0, 0);
+}
